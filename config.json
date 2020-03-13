@@ -1,0 +1,5 @@
+{
+  "MONGO_USER" : "vandy1104",
+  "MONGO_PASSWORD"  : "v12345",
+  "MONGO_CLUSTER_NAME"  : "vandy1104-pey27"
+}
