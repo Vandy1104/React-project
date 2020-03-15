@@ -10,7 +10,7 @@ const Prod = require('./models/products.js');
 const User = require('./models/users.js');
 
 
-const port = 5000;
+const port = 3000;
 
 //Connect to db
 // const mongodbURI = 'mongodb+srv://vandy1104:pratik@1104@vandy1104-pey27.mongodb.net/test?retryWrites=true&w=majority';
